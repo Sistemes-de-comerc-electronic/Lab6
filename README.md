@@ -6,6 +6,20 @@ Vull que no els feu amb IA per a que entengueu el que esteu fent, si teniu algun
 
 ---
 
+## Com entregar-ho
+
+Al Moodle trobareu un enllaç de Github Classroom per a aquest laboratori. Cliqueu-lo i seguiu les instruccions per crear un fork del repositori al vostre compte de GitHub.
+
+Veureu que teniu ja una branca `main` creada. Aquesta serà la branca on haureu de fer els vostres canvis i pujar el codi.
+
+## Que fer si no em funciona
+
+Fes un mail a david.domenech@urv.cat explicant el problema que tens, si és possible amb captures de pantalla i logs d'error. Intentaré ajudar-te a resoldre-ho.
+
+Si no ho pots entregar cap problema, envia un mail i ho comptaré igualment, però intenta entregar-ho al Github perquè així és més fàcil per a mi revisar el codi i veure que has fet.
+
+---
+
 ## Com començar
 
 1. Feu una carpeta lab6 al vostre ordinador i entreu-hi:
