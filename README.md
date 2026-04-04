@@ -1,3 +1,5 @@
+![logo URV](docs/urv.jpg){width=400px}
+
 # Lab 6 – Payment Gateway
 
 Com a tal fer els exercicis no compta per a nota, però si els pengeu al Moodle podré tenir-ho en compte.
