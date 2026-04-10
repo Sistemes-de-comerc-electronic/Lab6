@@ -14,7 +14,7 @@ Al Moodle trobareu un enllaç de Github Classroom per a aquest laboratori. Cliqu
 
 Veureu que teniu ja una branca `main` creada. Aquesta serà la branca on haureu de fer els vostres canvis i pujar el codi.
 
-## Que fer si no em funciona
+## Què fer si no em funciona
 
 Fes un mail a david.domenech@urv.cat explicant el problema que tens, si és possible amb captures de pantalla i logs d'error. Intentaré ajudar-te a resoldre-ho.
 
